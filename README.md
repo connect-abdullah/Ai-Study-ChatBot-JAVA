@@ -1,13 +1,3 @@
-Read file: src/StudyChatbot.java
-Read file: src/StudyChatbot.java
-Read file: src/responses_cache.txt
-Read file: lib/json-20231013.jar
-Read file: pf project.iml
-Read file: responses_cache.txt
-Here is a detailed `README.md` for your project, based on the code and files provided:
-
----
-
 # AI Study Guide Chatbot
 
 ## Overview
